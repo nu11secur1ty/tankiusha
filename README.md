@@ -1,5 +1,5 @@
 # tankiusha
-![tankisha](https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg)
+![tankisha](https://raw.githubusercontent.com/nu11secur1ty/images/master/tankiusha.jpg)
 ```
 nu11secur1ty is proud to present you "tankiusha".
 ```
