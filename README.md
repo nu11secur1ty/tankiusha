@@ -1,6 +1,5 @@
 # tankiusha
 ![tankisha](https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg)
-![Kali NetHunter](https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg)
 ```
 nu11secur1ty is proud to present you "tankiusha".
 ```
