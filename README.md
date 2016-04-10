@@ -1,7 +1,7 @@
 # tankiusha
 
 
-<img src="https://github.com/nu11secur1ty/tankiusha/blob/master/tankiusha.jpg">
+<img src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg">
 
 ```
 nu11secur1ty is proud to present you "tankiusha".
