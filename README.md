@@ -1,6 +1,6 @@
 # tankiusha
 
-<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg">
 
 ```
 nu11secur1ty is proud to present you "tankiusha".
