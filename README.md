@@ -1,9 +1,12 @@
 # tankiusha
-
+img {
+  display: block;
+  margin: auto;
+}
 
 <img src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg">
 
-<p style="text-align: center"><img src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg" /></p>
+
 
 
 ```
