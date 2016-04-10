@@ -1,11 +1,7 @@
 # tankiusha
 
 
-{: .center}
-![image]("https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpgGithub Developer Pack")
-
-
-<img algin="center" src="">
+<img src="https://github.com/nu11secur1ty/tankiusha/blob/master/tankiusha.jpg">
 
 ```
 nu11secur1ty is proud to present you "tankiusha".
