@@ -1,8 +1,7 @@
 # tankiusha
 
-<div id="over" style="position:absolute; width:100%; height:100%>
  <img src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg">
-</div>
+
 
 ```
 nu11secur1ty is proud to present you "tankiusha".
