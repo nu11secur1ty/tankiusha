@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg">
 
-![ image ](https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg) - center
+<p style="text-align: center"><img src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg" /></p>
 
 
 ```
