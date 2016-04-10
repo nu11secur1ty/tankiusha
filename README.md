@@ -1,14 +1,6 @@
 # tankiusha
 
-
-
-
-IMG.displayed {
-    margin-left: auto;
-    margin-right: auto }
-...
-<IMG class="displayed" src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg" alt="...">
-
+<img=src="https://raw.githubusercontent.com/nu11secur1ty/tankiusha/master/tankiusha.jpg">
 
 ```
 nu11secur1ty is proud to present you "tankiusha".
