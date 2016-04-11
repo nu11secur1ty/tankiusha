@@ -8,7 +8,7 @@ use 5.010;
 
    print "Please input, the name of file, who you want to search:\n";
 my $sr_ = <STDIN>;
-my $path = `find / -name $sr_`;
+my $path = `sudo find / -name $sr_`;
    print  "$path\n";
 
        
