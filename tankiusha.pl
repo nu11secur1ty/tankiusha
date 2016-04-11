@@ -6,9 +6,14 @@ use strict;
 use warnings;
 use 5.010;
 
+if ( $< != 0 ) {
+print "Must be run as root, using su -:\n"; 
+print "and run again\n";
+exit (0);
+}
    print "Please input, the name of file, who you want to search:\n";
 my $sr_ = <STDIN>;
-my $path = `sudo find / -name $sr_`;
+my $path = `find / -name $sr_`;
    print  "$path\n";
 
        
