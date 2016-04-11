@@ -13,7 +13,7 @@ exit (0);
 }
    print "Please input, the name of file, who you want to search:\n";
 my $sr_ = <STDIN>;
-my $path = `find / -name $sr_`;
+my $path = `find / -iname $sr_`;
    print  "$path\n";
 
        
