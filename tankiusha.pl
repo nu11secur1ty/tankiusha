@@ -19,7 +19,8 @@ my $sr_ = <STDIN>;
    print "Please wait...\n";
 my $path = `find / -iname $sr_`;
    print  "$path\n";
-
+       exit;
+   
        
 
 
